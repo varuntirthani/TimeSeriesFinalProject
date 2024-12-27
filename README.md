@@ -1,2 +1,2 @@
 # TimeSeriesFinalProject
-NYU Math Course Final Project
+NYU Time Series & Statistical Arbitrage Course Final Project
